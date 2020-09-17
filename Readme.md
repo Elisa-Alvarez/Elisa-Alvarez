@@ -13,14 +13,14 @@
 - 🔭 I’m currently working on a [Portfolio][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: To learn Node.js <img width="10" src="https://img.icons8.com/windows/32/000000/node-js.png"/>
+- 🥅 2020 Goals: To learn Node.js <img width="20" src="https://img.icons8.com/windows/32/000000/node-js.png"/>
 - ⚡ Fun fact: I love animals and going kyaking 🚣‍♀️
 
 
 ### Connect with me:
 
 [<img align="left" src="https://img.icons8.com/clouds/100/000000/discord-logo.png" width="100px"/>](https://discord.com/channels/@Era)
-[<img align="left" src="https://img.icons8.com/clouds/100/000000/gmail.png"/>](<elisaalvarez211@gmail.com">)
+[<img align="left" src="https://img.icons8.com/clouds/100/000000/gmail.png"/>]( mailto:elisaalvarez211@gmail.com)
 
 
 
