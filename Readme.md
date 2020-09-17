@@ -13,14 +13,13 @@
 - 🔭 I’m currently working on a [Portfolio][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: To learn Node.js[<img width="10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/node/node.png"]
+- 🥅 2020 Goals: To learn Node.js[<img src="https://img.icons8.com/windows/32/000000/node-js.png"/>]
 - ⚡ Fun fact: I love animals and going kyaking 🚣‍♀️
 
 
 ### Connect with me:
 
-[<img align="left" src="https://img.icons8.com/clouds/100/000000/discord-logo.png" width="50px"/>](Era#3300)
-
+[<img align="left" src="https://img.icons8.com/clouds/100/000000/discord-logo.png" width="100px"/>](Era#3300)
 [<img align="left" src="https://img.icons8.com/clouds/100/000000/gmail.png"/>]()
 
 <br />
