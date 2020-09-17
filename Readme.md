@@ -18,15 +18,19 @@
 
 
 ### Connect with me:
-<section>
-<img align="left" src="https://img.icons8.com/clouds/100/000000/discord-logo.png" width="100px"/>[https://discord.com/Era]
-<img align="left" src="https://img.icons8.com/clouds/100/000000/gmail.png"/>[elisaalvarez211@gmail.com]
-</section>
+
+[<img align="left" src="https://img.icons8.com/clouds/100/000000/discord-logo.png" width="100px"/>][https://discord.com/Era]
+[<img align="left" src="https://img.icons8.com/clouds/100/000000/gmail.png"/>][elisaalvarez211@gmail.com]
+
+
+
 <br />
 <br />
 
 
 ---
+<br />
+<br />
 
 ### Languages and Tools:
 
