@@ -19,8 +19,8 @@
 
 ### Connect with me:
 
-[<img align="left" src="https://img.icons8.com/clouds/100/000000/discord-logo.png" width="100px"/>](https://discord.com/Era)
-[<img align="left" src="https://img.icons8.com/clouds/100/000000/gmail.png"/>](elisaalvarez211@gmail.com)
+[<img align="left" src="https://img.icons8.com/clouds/100/000000/discord-logo.png" width="100px"/>](https://discord.com/channels/@Era)
+[<img align="left" src="https://img.icons8.com/clouds/100/000000/gmail.png"/>](<a href = "mailto: elisaalvarez211@gmail.com"/>)
 
 
 
