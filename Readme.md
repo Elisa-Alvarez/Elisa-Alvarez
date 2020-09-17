@@ -8,7 +8,7 @@
 
 
 
-## I'm a Sopouse, Developer, and Team Lead!
+## I'm a Full Stack Web Developer, and Team Lead!
 
 - 🔭 I’m currently working on a [Portfolio][website]!
 - 🌱 I’m currently learning everything 🤣
