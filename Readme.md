@@ -10,7 +10,7 @@
 
 ## I'm a Full Stack Web Developer, and Team Lead!
 
-- 🔭 I’m currently working on a [Portfolio][website]!
+- 🔭 I’m currently working on a Portfolio website!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: To learn Node.js <img width="20" src="https://img.icons8.com/windows/32/000000/node-js.png"/>
