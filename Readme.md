@@ -4,6 +4,7 @@
 
 
 [<img align="middle" src="https://www.flaticon.com/svg/static/icons/svg/185/185964.svg" alt="LinkedIn" width="50"/>](https://www.linkedin.com/in/elisa-alvarez-0089a4191/)
+[<img src="https://img.icons8.com/clouds/100/000000/discord-logo.png"/>](Era#3300)
 
 
 
@@ -18,9 +19,7 @@
 
 ### Connect with me:
 
-[<img align="middle" src="https://www.flaticon.com/svg/static/icons/svg/185/185964.svg" alt="LinkedIn" width="50"/>](https://www.linkedin.com/in/elisa-alvarez-0089a4191/)
-
-
+[<img src="https://img.icons8.com/clouds/100/000000/discord-logo.png" width="30px"/>](Era#3300)
 
 <br />
 
