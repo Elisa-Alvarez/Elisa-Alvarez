@@ -51,7 +51,7 @@
 - ["The Lux Resort Hotel Website...In Progress"](https://github.com/Elisa-Alvarez/LuxuryBeachHotel)
 
 
-➡️ [other projects...](https://youtube.com/codestackr)
+➡️ [other projects...](https://github.com/Elisa-Alvarez?tab=repositories)
 
 ---
 
