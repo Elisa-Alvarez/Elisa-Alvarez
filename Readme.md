@@ -49,7 +49,7 @@
 ### 🚧 Latest Projects
 
 - ["The Lux Resort Hotel Website...In Progress"](https://github.com/Elisa-Alvarez/LuxuryBeachHotel)
-- ["Conway's  Game of Life | Pygmae"]("https://github.com/Elisa-Alvarez/Conways-Game-Of-Life")
+- ["Conway's  Game of Life | Pygmae"](https://github.com/Elisa-Alvarez/Conways-Game-Of-Life)
 
 ➡️ [other projects...](https://github.com/Elisa-Alvarez?tab=repositories)
 
