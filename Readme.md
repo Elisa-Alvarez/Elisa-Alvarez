@@ -37,7 +37,7 @@
 
 ### 🚧 Latest Projects
 
-- ["The Lux Resort Hotel Website...In Progress"](https://theluxresort.netlify.app/)
+- ["The Lux Resort Hotel Website"](https://theluxresort.netlify.app/)
 - ["Conway's  Game of Life | Pygmae"](https://github.com/Elisa-Alvarez/Conways-Game-Of-Life)
 
 ➡️ [other projects...](https://github.com/Elisa-Alvarez?tab=repositories)
