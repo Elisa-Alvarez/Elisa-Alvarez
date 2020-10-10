@@ -4,7 +4,8 @@
 
 
 [<img align="middle" src="https://www.flaticon.com/svg/static/icons/svg/185/185964.svg" alt="LinkedIn" width="50"/>](https://www.linkedin.com/in/elisa-alvarez-0089a4191/)
-
+[<img align="left" src="https://img.icons8.com/clouds/100/000000/discord-logo.png" width="100px"/>](https://discord.com/channels/@Era)
+[<img align="left" src="https://img.icons8.com/clouds/100/000000/gmail.png"/>]( mailto:elisaalvarez211@gmail.com)
 
 
 
@@ -15,19 +16,6 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: To learn Node.js <img width="20" src="https://img.icons8.com/windows/32/000000/node-js.png"/>
 - ⚡ Fun fact: I love animals and going kyaking 🚣‍♀️
-
-
-### Connect with me:
-
-[<img align="left" src="https://img.icons8.com/clouds/100/000000/discord-logo.png" width="100px"/>](https://discord.com/channels/@Era)
-[<img align="left" src="https://img.icons8.com/clouds/100/000000/gmail.png"/>]( mailto:elisaalvarez211@gmail.com)
-
-
-
-<br />
-<br />
-
-
 <br />
 <br />
 
