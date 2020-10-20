@@ -33,9 +33,10 @@ After dedicating my time and developing my skills as a Full Stack Developer at L
 
  </div>
  
-<br />
-<br />
-<br/>
+<br >
+<br >
+<br>
+<br>
 
 
   <h2 align="center' >Let's Connect 🔗 </h2>
