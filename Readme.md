@@ -37,7 +37,7 @@ After dedicating my time and developing my skills as a Full Stack Developer at L
 
 <br />
 <br />
-----
+
 <div align = "center">
   <h2 align="center">Let's Connect 🔗 </h1>
 <a href="https://www.linkedin.com/in/elisa-alvarez-full-stack-dev/"><img align="middle" src="https://www.flaticon.com/svg/static/icons/svg/185/185964.svg" alt="LinkedIn" width="50"/></a>
