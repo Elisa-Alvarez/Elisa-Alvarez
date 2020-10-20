@@ -1,6 +1,6 @@
 # Elisa-Alvarez
 ---
-<div align:center><h1>Hi there, I'm Elisa - Full Stack Web Developer  👋</h1></div>
+<h1 align="center">Hi there, I'm Elisa - Full Stack Web Developer  👋</h1>
 
 
 [<img align="middle" src="https://www.flaticon.com/svg/static/icons/svg/185/185964.svg" alt="LinkedIn" width="50"/>](https://www.linkedin.com/in/elisa-alvarez-0089a4191/)
