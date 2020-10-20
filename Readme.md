@@ -35,6 +35,7 @@ After dedicating my time and developing my skills as a Full Stack Developer at L
  
 <br />
 <br />
+<br/>
 
 
   <h2 >Let's Connect 🔗 </h2>
