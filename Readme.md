@@ -8,13 +8,14 @@
 After dedicating my time and developing my skills as a Full Stack Developer at Lambda School, I am currently seeking positions as a Fullstack Web Developer or Front End positions.  While at Lambda School I became a Team Lead which helped me solidify my knowledge in JavaScript and React as well as improve my ability to problem-solve. This position also allowed me to demonstrate my ability to co-operate and lead a diverse group of people and deliver results on a daily basis.
 
  Knowledgeable in JavaScript, Java, Redux.js, React.js, Context API, REST API's, Bootstrap/Material UI,  and Cascading Style Sheets (CSS). ></p>
+ <br>
 <div align="center">
  
-<p> 🔭 I’m currently working on a Portfolio website!</p> 
-<p>🌱 I’m currently learning everything 🤣</p> 
-<p> 👯 I’m looking to collaborate with other content creators</p> 
-<p> 🥅 2020 Goals: To learn Node.js <img width="20" src="https://img.icons8.com/windows/32/000000/node-js.png"/></p>
-<p> ⚡ Fun fact: I love animals and going kyaking 🚣‍♀️</p> 
+<p>- 🔭 I’m currently working on a Portfolio website!
+🌱 I’m currently learning everything 🤣
+ 👯 I’m looking to collaborate with other content creators
+ 🥅 2020 Goals: To learn Node.js <img width="20" src="https://img.icons8.com/windows/32/000000/node-js.png"/>
+⚡ Fun fact: I love animals and going kyaking 🚣‍♀️</p>
  
  </div>
 <br />
