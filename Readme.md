@@ -1,16 +1,16 @@
 
 
-<h1 align="center">Hi there, I'm Elisa - Full Stack Web Developer  👋</h1>
+<h1 align="center">Hi there, I'm Elisa  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/></h1>
 ---
 <div align = "center">
-  <h2 align="center">Let's Connect ⛓️ </h1>
+  <h2 align="center">Let's Connect 🔗 </h1>
 <a href="https://www.linkedin.com/in/elisa-alvarez-full-stack-dev/"><img align="middle" src="https://www.flaticon.com/svg/static/icons/svg/185/185964.svg" alt="LinkedIn" width="50"/></a>
-<img align="middle" src="https://img.icons8.com/clouds/100/000000/gmail.png"/>( mailto:elisaalvarez211@gmail.com)
+<a href="mailto:elisaalvarez211@gmail.com"><img align="middle" src="https://img.icons8.com/clouds/100/000000/gmail.png"/></a>
     </div>
 <br/>
 <br/>
 
-## I'm a Full Stack Web Developer, and Team Lead!
+<h2 align="center"> I'm a Full Stack Web Developer, and Team Lead!</h2>
 
 - 🔭 I’m currently working on a Portfolio website!
 - 🌱 I’m currently learning everything 🤣
@@ -20,7 +20,7 @@
 <br />
 <br />
 
-### Languages and Tools:
+<h3 align="center"> Languages and Tools: </h3>
 
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
 [<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
