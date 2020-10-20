@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi there, I'm Elisa  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/></h1>
+<h1 align="center">Hi there, I'm Elisa  <img width="30px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/></h1>
 ---
 <div align = "center">
   <h2 align="center">Let's Connect 🔗 </h1>
