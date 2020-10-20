@@ -9,13 +9,13 @@ After dedicating my time and developing my skills as a Full Stack Developer at L
 
  Knowledgeable in JavaScript, Java, Redux.js, React.js, Context API, REST API's, Bootstrap/Material UI,  and Cascading Style Sheets (CSS). ></p>
 <div align="center">
- <ul>
-<li> 🔭 I’m currently working on a Portfolio website!</li> 
-<li> 🌱 I’m currently learning everything 🤣</li> 
-<li> 👯 I’m looking to collaborate with other content creators</li> 
-<li>  🥅 2020 Goals: To learn Node.js <img width="20" src="https://img.icons8.com/windows/32/000000/node-js.png"/></li> 
-<li> ⚡ Fun fact: I love animals and going kyaking 🚣‍♀️</li> 
- </ul>
+ 
+<p> 🔭 I’m currently working on a Portfolio website!</p> 
+<p>🌱 I’m currently learning everything 🤣</p> 
+<p> 👯 I’m looking to collaborate with other content creators</p> 
+<p> 🥅 2020 Goals: To learn Node.js <img width="20" src="https://img.icons8.com/windows/32/000000/node-js.png"/></p>
+<p> ⚡ Fun fact: I love animals and going kyaking 🚣‍♀️</p> 
+ 
  </div>
 <br />
 <br />
