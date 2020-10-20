@@ -3,10 +3,13 @@
 <h1 align="center">Hi there, I'm Elisa  <img width="30px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/></h1>
 ---
 
-<br/>
-<br/>
 
 <h2 align="center"> I'm a Full Stack Web Developer, and Team Lead!</h2>
+<p align="center"From the moment I first saw “Hello World” in the console of my first application, I knew I was hooked into the world of software development. For me software isn’t just a job, it has had an influential part of my life and has inspired me to learn and create high-quality software. What started as a simple “Hello World” app has become a full-fledged passion.
+
+After dedicating my time and developing my skills as a Full Stack Developer at Lambda School, I am currently seeking positions as a Fullstack Web Developer or Front End positions.  While at Lambda School I became a Team Lead which helped me solidify my knowledge in JavaScript and React as well as improve my ability to problem-solve. This position also allowed me to demonstrate my ability to co-operate and lead a diverse group of people and deliver results on a daily basis.
+
+ Knowledgeable in JavaScript, Java, Redux.js, React.js, Context API, REST API's, Bootstrap/Material UI,  and Cascading Style Sheets (CSS). ></p>
 
 - 🔭 I’m currently working on a Portfolio website!
 - 🌱 I’m currently learning everything 🤣
