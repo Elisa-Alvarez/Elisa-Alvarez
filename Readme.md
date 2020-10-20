@@ -14,7 +14,7 @@ After dedicating my time and developing my skills as a Full Stack Developer at L
 -🔭 I’m currently working on a Portfolio website!
 -🌱 I’m currently learning everything 🤣
 -👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: To learn Node.js <img width="20" src="https://img.icons8.com/windows/32/000000/node-js.png"/>
+-🥅 2020 Goals: To learn Node.js <img width="20" src="https://img.icons8.com/windows/32/000000/node-js.png"/>
 -⚡ Fun fact: I love animals and going kyaking 🚣‍♀️
 
 <br />
