@@ -9,12 +9,18 @@
  <br>
  <br/>
 
-<h4> Goals for the year....</h4> 
--🔭 I’m currently working on a Portfolio website!<br>
--🌱 I’m currently learning everything 🤣<br>
--👯 I’m looking to collaborate with other content creators<br>
--🥅 2020 Goals: To learn Node.js <img width="20" src="https://img.icons8.com/windows/32/000000/node-js.png"/><br>
--⚡ Fun fact: I love animals and going kyaking 🚣‍♀️<br>
+ <h2 align="center' >Let's Connect 🔗 </h2>
+<div align = "center">
+<a href="https://www.linkedin.com/in/elisa-alvarez-full-stack-dev/"><img align="middle" src="https://www.flaticon.com/svg/static/icons/svg/185/185964.svg" alt="LinkedIn" width="50"/></a>
+<a href="mailto:elisaalvarez211@gmail.com"><img align="middle" src="https://img.icons8.com/clouds/100/000000/gmail.png"/></a>
+</div>
+
+<h4 align="center"> Goals for the year....</h4> 
+<p>-🔭 I’m currently working on a Portfolio website!</p><br>
+<p>-🌱 I’m currently learning everything 🤣</p><br>
+<p>-👯 I’m looking to collaborate with other content creators</p><br>
+<p>-🥅 2020 Goals: To learn Node.js <img width="20" src="https://img.icons8.com/windows/32/000000/node-js.png"/> </p><br>
+<p>-⚡ Fun fact: I love animals and going kyaking 🚣‍♀️ </p><br>
 
 <br />
 <br />
@@ -37,12 +43,6 @@
 <br>
 <br>
 
-
-  <h2 align="center' >Let's Connect 🔗 </h2>
-  <div align = "center">
-<a href="https://www.linkedin.com/in/elisa-alvarez-full-stack-dev/"><img align="middle" src="https://www.flaticon.com/svg/static/icons/svg/185/185964.svg" alt="LinkedIn" width="50"/></a>
-<a href="mailto:elisaalvarez211@gmail.com"><img align="middle" src="https://img.icons8.com/clouds/100/000000/gmail.png"/></a>
-    </div>
 
 ---
 
