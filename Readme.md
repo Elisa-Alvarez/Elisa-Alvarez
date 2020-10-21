@@ -4,16 +4,17 @@
 
 <h2 align="center"> I'm a Full Stack Web Developer, and Team Lead!</h2>
 <h4 align="center"> Who am I? I am a fun loving vet tech 🐾 gone full tech 💻 </h4>
-<p align="center">Learning how to code has opened my world to a whole new side of potential I never thought was possible 🌟</p>
+<p align="center">Learning how to code has opened my world to never ending possibilities and I love it! 🌟</p>
 <p align="center">Right Now? I am seeking employment to growing my skills as a developer👩‍💻 </p>
  <br>
+ <br/>
 
- 
--🔭 I’m currently working on a Portfolio website!
--🌱 I’m currently learning everything 🤣
--👯 I’m looking to collaborate with other content creators
--🥅 2020 Goals: To learn Node.js <img width="20" src="https://img.icons8.com/windows/32/000000/node-js.png"/>
--⚡ Fun fact: I love animals and going kyaking 🚣‍♀️
+<h4> Goals for the year....</h4> 
+-🔭 I’m currently working on a Portfolio website!<br>
+-🌱 I’m currently learning everything 🤣<br>
+-👯 I’m looking to collaborate with other content creators<br>
+-🥅 2020 Goals: To learn Node.js <img width="20" src="https://img.icons8.com/windows/32/000000/node-js.png"/><br>
+-⚡ Fun fact: I love animals and going kyaking 🚣‍♀️<br>
 
 <br />
 <br />
