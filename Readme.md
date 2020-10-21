@@ -10,9 +10,9 @@
  <br>
 <div align = "center">
  <h2 align="center" >Let's Connect 🔗 </h2>
-<a href="https://twitter.com/ElisaAl39167236"><img align="middle" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409937.svg" alt="Twitter" width="50"/></a>
-<a href="https://www.linkedin.com/in/elisa-alvarez-full-stack-dev/"><img align="middle" src="https://www.flaticon.com/svg/static/icons/svg/185/185964.svg" alt="LinkedIn" width="50"/></a>
-<a href="mailto:elisaalvarez211@gmail.com"><img align="middle" src="https://img.icons8.com/clouds/100/000000/gmail.png"/></a>
+<a href="https://twitter.com/ElisaAl39167236"><img align="middle" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409937.svg" alt="Twitter" width="80"/></a>
+<a href="https://www.linkedin.com/in/elisa-alvarez-full-stack-dev/"><img align="middle" src="https://www.flaticon.com/svg/static/icons/svg/185/185964.svg" alt="LinkedIn" width="80"/></a>
+<a href="mailto:elisaalvarez211@gmail.com"><img align="middle" width="80" src="https://img.icons8.com/clouds/100/000000/gmail.png"/></a>
 </div>
 
 <h3 align="center"> Goals for the year....</h3> 
