@@ -7,7 +7,7 @@
 <p align="center">Learning how to code has opened my world to never ending possibilities and I love it! 🌟</p>
 <p align="center">Right Now? I am seeking employment to growing my skills as a developer👩‍💻 </p>
  <br>
- <br/>
+ <br>
 
  <h2 align="center' >Let's Connect 🔗 </h2>
 <div align = "center">
@@ -21,6 +21,12 @@
 <p align="center">-👯 I’m looking to collaborate with other content creators</p>
 <p align="center">-🥅 2020 Goals: To learn Node.js <img width="20" src="https://img.icons8.com/windows/32/000000/node-js.png"/> </p>
 <p align="center">-⚡ Fun fact: I love animals and going kyaking 🚣‍♀️ </p>
+
+<details>
+  <summary>⚡ Github Stats</summary>
+<img alt="Elisa's github stats" src ="https://github-readme-stats.vercel.app/api?username=Elisa-Alvarez&show_icons=true&theme=dracula"/>
+
+</details>
 
 <br />
 <br />
@@ -53,13 +59,3 @@
 - ["Conway's  Game of Life | Pygmae"](https://github.com/Elisa-Alvarez/Conways-Game-Of-Life)
 
 ➡️ [other projects...](https://github.com/Elisa-Alvarez?tab=repositories)
-
----
-
-<details>
-  <summary>⚡ Github Stats</summary>
-<img alt="Elisa's github stats" src ="https://github-readme-stats.vercel.app/api?username=Elisa-Alvarez&show_icons=true&theme=dracula"/>
-
-</details>
-
-
