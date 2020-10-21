@@ -16,11 +16,11 @@
 </div>
 
 <h4 align="center"> Goals for the year....</h4> 
-<p>-🔭 I’m currently working on a Portfolio website!</p><br>
-<p>-🌱 I’m currently learning everything 🤣</p><br>
-<p>-👯 I’m looking to collaborate with other content creators</p><br>
-<p>-🥅 2020 Goals: To learn Node.js <img width="20" src="https://img.icons8.com/windows/32/000000/node-js.png"/> </p><br>
-<p>-⚡ Fun fact: I love animals and going kyaking 🚣‍♀️ </p><br>
+<p align="center">-🔭 I’m currently working on a Portfolio website!</p>
+<p align="center">-🌱 I’m currently learning everything 🤣</p>
+<p align="center">-👯 I’m looking to collaborate with other content creators</p>
+<p align="center">-🥅 2020 Goals: To learn Node.js <img width="20" src="https://img.icons8.com/windows/32/000000/node-js.png"/> </p>
+<p align="center">-⚡ Fun fact: I love animals and going kyaking 🚣‍♀️ </p>
 
 <br />
 <br />
