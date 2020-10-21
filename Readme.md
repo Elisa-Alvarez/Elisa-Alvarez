@@ -3,9 +3,9 @@
 <h1 align="center">Hi there, I'm Elisa  <img width="30px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/></h1>
 
 <h2 align="center"> I'm a Full Stack Web Developer, and Team Lead!</h2>
-<h4> Who am I? I am a fun loving vet tech 🐾 gone full tech 💻 </h4>
-<p>Learning how to code has opened my world to a whole new side of potential I never thought was possible 🌟</p>
-<p>Currently I am seeking employment to growing my skills as a developer👩‍💻 </p>
+<h4 align="center"> Who am I? I am a fun loving vet tech 🐾 gone full tech 💻 </h4>
+<p align="center">Learning how to code has opened my world to a whole new side of potential I never thought was possible 🌟</p>
+<p align="center">Right Now? I am seeking employment to growing my skills as a developer👩‍💻 </p>
  <br>
 
  
