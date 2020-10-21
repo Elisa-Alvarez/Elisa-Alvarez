@@ -16,7 +16,7 @@
 </div>
 
 <h4 align="center"> Goals for the year....</h4> 
-<ul="center">-🔭 I’m currently working on a Portfolio website!<br>
+<ul align="center">-🔭 I’m currently working on a Portfolio website!<br>
                   -🌱 I’m currently learning everything 🤣!<br>
                   -👯 I’m looking to collaborate with other content creators!<br>
                   -🥅 2020 Goals: To learn Node.js <img width="20" src="https://img.icons8.com/windows/32/000000/node-js.png"/><br>
