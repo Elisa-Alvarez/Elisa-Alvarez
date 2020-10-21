@@ -17,10 +17,10 @@
 
 <h3 align="center"> Goals for the year....</h3> 
 <p align="center">-🔭 I’m currently working on a Portfolio website! </p><br>
-                  -🌱 I’m currently learning everything 🤣! </p><br>
-                  -👯 I’m looking to collaborate with other content creators! </p><br>
-                  -🥅 2020 Goals: To learn Node.js <img width="20" src="https://img.icons8.com/windows/32/000000/node-js.png"/> </p><br>
-                  -⚡ Fun fact: I love animals and going kyaking 🚣‍♀️ </p><br>
+<p align="center">-🌱 I’m currently learning everything 🤣! </p><br>
+<p align="center">-👯 I’m looking to collaborate with other content creators! </p><br>
+<p align="center">-🥅 2020 Goals: To learn Node.js <img width="20" src="https://img.icons8.com/windows/32/000000/node-js.png"/> </p><br>
+<p align="center">-⚡ Fun fact: I love animals and going kyaking 🚣‍♀️ </p><br>
 
 <details>
   <summary>⚡ Github Stats</summary>
