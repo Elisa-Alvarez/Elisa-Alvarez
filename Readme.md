@@ -4,8 +4,9 @@
 
 <h2 align="center"> I'm a Full Stack Web Developer, and Team Lead!</h2>
 <h4 align="center"> Who am I? I am a fun loving vet tech 🐾 gone full tech 💻 </h4>
-<p align="center">Learning how to code from Lambda School's Full Stack Developer Program has opened my world to never ending possibilities and I love it! 🌟 Though I still have a very strong pation for animals 🐕 the feild was a little dangerous ☠️. Luckily 🍀 I found Lambda School and I am glad that I did!😁
-</p>
+<p align="center">Learning how to code from Lambda School's Full Stack Developer Program🌐 has opened my world to never ending possibilities and I love it! 🌟 </p>
+ <p>Though I still have a very strong pation for animals 🐕 the vetrinary technician feild was very dangerous ☠️. Looking back I am very glad that I have graduated from Lambda School </p>
+<h4> Now Looking for Full Stack or Front End Development postions 🔍 </h4>
  <br>
  <br>
 <div align = "center">
