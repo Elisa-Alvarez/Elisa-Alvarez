@@ -40,7 +40,8 @@
 <img align="left" alt="Less" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/less/less.png" />
 <img align="left" alt="JavaScript" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="React" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="Java" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+ <img align="left" alt="Java" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Visual Studio Code" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
  </div>
@@ -55,8 +56,8 @@
 
 ### 🚧 Latest Projects
 
+- ["404 Page Template" (animated)](https://404-page-template.vercel.app/)
 - ["Cordial Chat"](https://cordial-chat.web.app/)
 - ["The Lux Resort Hotel Website"](https://theluxresort.netlify.app/)
-- ["Conway's  Game of Life | Pygmae"](https://github.com/Elisa-Alvarez/Conways-Game-Of-Life)
 
 ➡️ [other projects...](https://github.com/Elisa-Alvarez?tab=repositories)
