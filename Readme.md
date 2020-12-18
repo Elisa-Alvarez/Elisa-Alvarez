@@ -21,7 +21,7 @@
 <p align="">-🌱 I’m currently learning everything 🤣! </p><br>
 <p align="center">-👯 I’m looking to collaborate with other content creators! </p><br>
 <p align="center">-🥅 2021 Goals: To contribute to more open source! </p><br>
-<p align="center">-⚡ Fun fact:  </p><br>
+<p align="center">-⚡ Fun fact: I realy like to build animations 🐱‍💻 </p><br>
 
 <details>
   <summary>⚡ Github Stats</summary>
