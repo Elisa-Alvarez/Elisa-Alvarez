@@ -2,25 +2,27 @@
 
 <h1 align="center">Hi there, I'm Elisa  <img width="30px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/></h1>
 
-<h2 align="center"> I'm a Full Stack Web Developer, and Team Lead!</h2>
+<h2 align="center"> I'm a Software Engineer!</h2>
 <h4 align="center"> Who am I? I am a fun loving vet tech 🐾 gone full tech 💻 </h4>
-<p align="center">Learning how to code from Lambda School's Full Stack Developer Program has opened my world to never ending possibilities and I love it! 🌟 </p>
- <p>Though I still have a very strong passion for animals 🐕 the veterinary technician feild was very dangerous ☠️. Looking back I am very glad that I have graduated from Lambda School and look foward to creating new software and applictions.😁 </p>
-<h4 align="center">Now searching 🔍 for Full Stack or Front End Development postions</h4>
+<p align="center">Learning how to code from Bloomtech's Full Stack Developer Program has opened my world to never ending possibilities and I love it! 🌟 </p>
+ <p>Currently working as a Software Engineer @ Olo, helping to maintain the frontend and the backend api's to improve customer retention.😁 </p>
+<h4 align="center">Looking into starting a startup of my own or helping contribute to other startups 🧪</h4>
  <br>
  <br>
 <div align = "center">
  <h2 align="center" >Let's Connect 🔗 </h2>
-<a href="https://twitter.com/ElisaAl39167236"><img align="middle" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409937.svg" alt="Twitter" margin="10" width="80"/></a>
-<a href="https://www.linkedin.com/in/elisa-alvarez-full-stack-dev/"><img align="middle" src="https://www.flaticon.com/svg/static/icons/svg/185/185964.svg" alt="LinkedIn" width="80" margin="10"/></a>
-<a href="mailto:elisaalvarez211@gmail.com"><img align="middle" width="150" src="https://img.icons8.com/clouds/100/000000/gmail.png"/></a>
+<a href="https://twitter.com/DeveloperElisa"><img align="center"
+src="https://cdn-icons-png.flaticon.com/128/1384/1384065.png" alt="Twitter" margin="20" width="80"/></a>
+<a href="https://www.linkedin.com/in/elisa-alvarez-full-stack-dev/"><img align="center"
+ src="https://cdn-icons.flaticon.com/png/128/3536/premium/3536505.png?token=exp=1653021781~hmac=ad8bc73b47805056950a5482de5ef8af" alt="LinkedIn" width="80" margin="20" /></a>
+<a href="mailto:elisaalvarez211@gmail.com"><img align="center" width="150" src="https://img.icons8.com/clouds/100/000000/gmail.png"/></a>
 </div>
 
 <h3 align="center"> Goals for the year....</h3> 
-<p align="center">-🔭 I’m currently working on a Angular Socail Media App! </p><br>
+<p align="center">-🔭 I’m currently working on a new startup app! </p><br>
 <p align="center">-🌱 I’m currently learning everything 🤣! </p><br>
 <p align="center">-👯 I’m looking to collaborate with other content creators! </p><br>
-<p align="center">-🥅 2021 Goals: To contribute to more open source! </p><br>
+<p align="center">-🥅 2023 Goals: To create real world projects! </p><br>
 <p align="center">-⚡ Fun fact: I realy like to build animations 🐱‍💻 </p><br>
 
 <details>
